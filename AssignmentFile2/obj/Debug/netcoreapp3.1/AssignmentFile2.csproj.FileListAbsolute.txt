@@ -1,0 +1,13 @@
+C:\Users\ASTHA JAIN\AssignmentFile2\bin\Debug\netcoreapp3.1\AssignmentFile2.exe
+C:\Users\ASTHA JAIN\AssignmentFile2\bin\Debug\netcoreapp3.1\AssignmentFile2.deps.json
+C:\Users\ASTHA JAIN\AssignmentFile2\bin\Debug\netcoreapp3.1\AssignmentFile2.runtimeconfig.json
+C:\Users\ASTHA JAIN\AssignmentFile2\bin\Debug\netcoreapp3.1\AssignmentFile2.runtimeconfig.dev.json
+C:\Users\ASTHA JAIN\AssignmentFile2\bin\Debug\netcoreapp3.1\AssignmentFile2.dll
+C:\Users\ASTHA JAIN\AssignmentFile2\bin\Debug\netcoreapp3.1\AssignmentFile2.pdb
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.csprojAssemblyReference.cache
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.AssemblyInfoInputs.cache
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.AssemblyInfo.cs
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.csproj.CoreCompileInputs.cache
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.dll
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.pdb
+C:\Users\ASTHA JAIN\AssignmentFile2\obj\Debug\netcoreapp3.1\AssignmentFile2.genruntimeconfig.cache
